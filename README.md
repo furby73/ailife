@@ -10,5 +10,9 @@ AILife is a simulation tool that models an artificial life ecosystem where two t
 - **Raycasting for Vision**: Creatures "see" their environment using raycasting techniques, which informs their decisions about movement and interaction with other creatures.
 - **Visualization**: The simulation outputs data that can be used to visualize population dynamics over time using plots, showing the rise and fall of prey and predator populations.
 
+Screenshot from the simulation
+![image](https://github.com/user-attachments/assets/e7e16fd9-e5b7-4beb-8371-8ab75f3115a9)
+
+
 Graph of nymber of creatures
 ![Figure_1](https://github.com/user-attachments/assets/c38df413-ed73-4200-a02e-7b0dc6096996)
